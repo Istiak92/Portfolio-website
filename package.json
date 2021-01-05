@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
-  "homepage": "https://istiak92.github.io/Portfolio-web",
+  "homepage": "https://istiak92.github.io/Portfolio-website",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
